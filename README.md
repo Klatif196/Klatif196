@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Klatif196
 - 👀 I’m interested in software development 
-- 🌱 I’m currently I have no idea about anything but I want to learen.
+- 🌱 Currently,I have no idea about anything but I want to learen.
 - 💞️ I’m looking to collaborate on software development.
-- 📫 How to reach me please .
+- 📫 reach me please .
 
 <!---
 Klatif196/Klatif196 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
